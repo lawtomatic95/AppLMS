@@ -1,0 +1,5 @@
+{
+  "name": "iOS Style Item Manager",
+  "description": "A visual iOS-style UI to manage your items, including stock, price, and description. Features add, edit, and delete functionality for logged-in users.",
+  "requestFramePermissions": []
+}
